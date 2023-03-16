@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-Fatiat
+- 👋 Hi, I’m @SoyeleFatiat
 - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
